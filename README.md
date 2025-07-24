@@ -28,7 +28,7 @@
 <div align="left">
   
 💻 **Experiência:** <br>
-- Mais de 3 anos de atuação como QA, incluindo funções como QA Lead e automação de testes.
+- Mais de 4 anos de atuação como QA, incluindo funções como QA Lead e automação de testes.
 - Experiência em desenvolvimento de testes de integração (NUnit, C#) e automação de testes E2E.
 - Conhecimento em ferramentas de testes como Selenium, Postman e NUnit.
   
