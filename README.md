@@ -39,12 +39,13 @@
   
 📌 **Ferramentas e Tecnologias:**
 <div style="display: inline_block; gap: 10px;">
-  <img align="center" alt="ray-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="ray-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"> 
-  <img align="center" alt="ray-NUnit" height="30" width="40" src="https://nunit.org/img/nunit.svg">
-  <img align="center" alt="ray-cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
-  <img align="center" alt="ray-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="ray-Azure" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+  <img align="center" title="C#" alt="ray-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" title="Selenium" alt="ray-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"> 
+  <img align="center" title="NUnit" alt="ray-NUnit" height="30" width="40" src="https://nunit.org/img/nunit.svg">
+  <img align="center" title="Cypress" alt="ray-cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
+  <img align="center" title="Postman" alt="ray-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" title="Azure" alt="ray-Azure" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+  <img align="center" title="Playwright" alt="ray-Playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
 </div>
 
 <br>
