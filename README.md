@@ -4,7 +4,7 @@
 
 <div align="center">
   
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynara-martins&layout=donut&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) |
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raynara-martins&layout=donut&langs_count=7)](https://github.com/stats-organization/github-stats-extended)
 |---|
 <!--   
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raynara-martins&theme=vue-dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raynara-martins&layout=donut&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) |
